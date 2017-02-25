@@ -1204,7 +1204,7 @@ D = Direct mounting &lt;p&gt;
 <parts>
 <part name="X1" library="HyTechDevices" deviceset="MINIFIT_5566-6" device=""/>
 <part name="LED1" library="HyTechDevices" deviceset="LED" device="-0805"/>
-<part name="R1" library="HyTechDevices" deviceset="RESISTOR" device="0402"/>
+<part name="R1" library="HyTechDevices" deviceset="RESISTOR" device="0805-RES"/>
 <part name="GND1" library="HyTechSymbols" deviceset="GND" device=""/>
 <part name="X2" library="con-subd" deviceset="F09HP" device=""/>
 <part name="U$1" library="HyTechDevices" deviceset="0S102011MS2QS1" device=""/>
